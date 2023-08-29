@@ -11,3 +11,6 @@ Moving on to the second part, I continued my web scraping journey by accessing M
 Throughout this assignment, I honed my web scraping skills, gained proficiency in data manipulation, analysis, and visualization, and concluded by exporting the valuable data I had processed to a CSV file for future reference and sharing.
 
 These tasks collectively showcased my capability to proficiently gather and process data from web sources, leading to meaningful insights.
+
+**References**
+- The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from [NASA's Mars News](https://mars.nasa.gov/news/) website in November 2022. Images are used according to the [JPL Image Use Policy](https://www.jpl.nasa.gov/credits), courtesy NASA/JPL-Caltech.
